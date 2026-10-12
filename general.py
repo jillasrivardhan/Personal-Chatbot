@@ -23,10 +23,10 @@ prompt = general_prompt
 
 parser = StrOutputParser()
 
-chain = prompt | model | parser     
+general_chain = prompt | model | parser     
 
-user_query = input("Enter your question: ")
+# user_query = input("Enter your question: ")
 
-response = chain.invoke({"question": user_query})
+# response = chain.invoke({"question": user_query})
 
-print("Response:", response)
+# print("Response:", response)

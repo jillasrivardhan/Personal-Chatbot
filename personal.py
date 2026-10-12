@@ -113,14 +113,14 @@ personal_chain = (
 # Test the personal chain
 # -------------------------------------
 
-while True:
-    user_query = input("Enter your question: ")
+# while True:
+#     user_query = input("Enter your question: ")
 
-    if user_query.lower() in ["exit", "quit"]:
-         break
+#     if user_query.lower() in ["exit", "quit"]:
+#          break
     
-    response = personal_chain.invoke({
-        "question": user_query
-    })
+#     response = personal_chain.invoke({
+#         "question": user_query
+#     })
 
-    print("\nResponse:\n", response)
+#     print("\nResponse:\n", response)

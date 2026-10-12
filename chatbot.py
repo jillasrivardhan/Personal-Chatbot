@@ -40,6 +40,7 @@ main_chain = classified_chain | RunnableBranch(
 )
 
 if __name__ == "__main__":
+    print("Welcome to the Personal AI Chatbot! Type 'exit' or 'quit' to end the conversation.")
     while True:
         question = input("\nYou: ")
 

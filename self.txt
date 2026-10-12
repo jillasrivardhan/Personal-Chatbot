@@ -1,0 +1,87 @@
+PERSONAL KNOWLEDGE FILE
+=======================
+
+IDENTITY
+--------
+Name: Jilla Srivardhan
+Location: Siddipet, Telangana, India
+Professional profile: B.Tech Computer Science and Engineering student interested in software development, Artificial Intelligence, Machine Learning, and Generative AI.
+
+EDUCATION
+---------
+Institution: Indur Institute of Engineering & Technology (IIET)
+Field of study: Computer Science and Engineering
+Current status: B.Tech student
+Note: Confirm the expected graduation year and current semester before adding them.
+
+TECHNICAL SKILLS AND INTERESTS
+------------------------------
+- Python
+- SQL
+- Machine Learning
+- Generative AI
+- LangChain
+- Ollama
+- Streamlit
+- Prompt engineering
+- Large language model applications
+- Retrieval-Augmented Generation (RAG)
+- Web development
+
+PROJECTS
+--------
+1. Gen-AI-Using-LangChain
+   A practical learning repository covering LangChain concepts and applications, including prompts, chains, output parsers, structured outputs, Ollama, Hugging Face, and Streamlit.
+
+2. College Assistant using RAG
+   A Retrieval-Augmented Generation project designed to answer student questions using college-related information, such as admissions, library rules, and examination policies.
+
+3. Student Performance Prediction
+   A machine learning project that predicts a student's final grade category from academic, behavioral, and lifestyle-related features. The workflow includes preprocessing, model training and evaluation, model serialization, and a Streamlit interface.
+
+4. Breast Cancer Prediction
+   A machine learning classification project that analyzes diagnostic data and predicts whether a tumor is malignant or benign.
+
+5. Heart Disease Prediction
+   A machine learning classification project using patient-related features, data preprocessing, and model evaluation to estimate the likelihood of heart disease.
+
+6. Deep Learning ANN
+   A learning repository covering artificial neural network concepts, including forward propagation, backpropagation, activation functions, loss functions, optimizers, training, and evaluation.
+
+7. AI Job Search Engine
+   An AI-focused project intended to make job searching more relevant and efficient.
+
+8. LangChain Chatbot
+   A conversational chatbot built with LangChain, Ollama, and Streamlit.
+
+9. LinkedIn Post Automation
+   An AI-assisted workflow for generating and publishing LinkedIn content using n8n and AI-based automation.
+
+10. Rule-Based Chatbot
+    A simple Python chatbot that responds using predefined conversational patterns.
+
+ONLINE PROFILES
+---------------
+LinkedIn: https://www.linkedin.com/in/jilla-srivardhan/
+GitHub: https://github.com/jillasrivardhan
+
+CAREER INTERESTS
+----------------
+- Artificial Intelligence and Machine Learning
+- Generative AI and LLM applications
+- Python development
+- Building practical AI-powered applications
+- Learning through hands-on projects
+
+CHATBOT RESPONSE RULES
+----------------------
+- Use this file as the source of personal facts about Jilla Srivardhan.
+- Do not invent personal details, project results, grades, work experience, certifications, or achievements.
+- If a requested fact is missing, say: "I don't have that information in my personal knowledge file yet."
+- For questions about a listed project, use only the description provided here unless more project details are added.
+- Do not reveal unrelated personal details when answering a specific question.
+- For general questions unrelated to Jilla, the application should route the question to its general-purpose LLM.
+
+MAINTENANCE NOTES
+-----------------
+This file is a starting profile assembled from the supplied LinkedIn and GitHub links and information available in the conversation. Review it for accuracy and add verified details from repository READMEs before relying on it as a complete personal knowledge base.

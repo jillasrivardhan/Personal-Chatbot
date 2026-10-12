@@ -198,6 +198,24 @@ streamlit run app.py
 
 Open the local URL displayed in the terminal by Streamlit.
 
+## 🤝 Contributing
+
+Contributions are welcome! Whether you want to fix a bug, improve the chatbot's routing logic, enhance the Streamlit interface, or introduce a new feature, your help is appreciated.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
+
+### Quick Contribution Guide
+
+1. Fork this repository.
+2. Create a feature branch.
+3. Implement and test your changes.
+4. Submit a Pull Request for review.
+
+For major changes, please open an issue first to discuss your proposed solution.
+
+**Let's build a better personal AI chatbot together!** 🚀
+
+
 ## 💬 Example Questions
 
 ### Personal Questions
